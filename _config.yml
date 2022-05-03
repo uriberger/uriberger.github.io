@@ -18,7 +18,7 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Your awesome title
+title: Uri Berger
 email: your-email@example.com
 description: >- # this means to ignore newlines until "baseurl:"
   Write an awesome description for your new site here. You can edit this
@@ -53,3 +53,23 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+# Site owner
+author:
+  name: "Uri<br>Berger"
+  avatar: "bio-photo.jpg"              
+  bio: "PhD candidate in a joint PhD program at the Hebrew University and University of Melbourne"
+  links:
+        - label: ""
+          icon: "far fa-envelope"
+          url: "mailto:uri.berger2@mail.huji.ac.il"
+        - label: ""
+          icon: "fab fa-twitter"
+          url: "https://twitter.com/uriberger88"
+        - label: ""
+          icon: "fab fa-fw fa-github"
+          url: "https://github.com/uriberger"
+        - label: ""
+          icon: "fab fa-fw fa-linkedin-in"
+          url: "https://www.linkedin.com/in/uri-berger-a478756b"
+    
