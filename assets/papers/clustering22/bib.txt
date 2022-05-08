@@ -1,0 +1,6 @@
+@inproceedings{Berger2019clustering,
+	author={Uri Berger and Gabriel Stanovsky and Omri Abend and Lea Frermann},
+	title={A Computational Acquisition Model for Multimodal Word Categorization},
+	booktitle={Proceedings of the 2022 Conference of the North American Chapter of the Association for Computational Linguistics},
+	year={2022}
+}

@@ -59,14 +59,14 @@ plugins:
 # Site owner
 author:
   name: "Uri<br>Berger"
-  avatar: "bio-photo.jpg"              
+  avatar: "/assets/images/bio-photo.jpg"              
   bio: "PhD candidate, The Hebrew University and University of Melbourne"
   links:
         - label: ""
           icon: "far fa-envelope"
           url: "mailto:uri.berger2@mail.huji.ac.il"
         - label: ""
-          icon: "fab fa-twitter"
+          icon: "fab fa-fw fa-twitter-square"
           url: "https://twitter.com/uriberger88"
         - label: ""
           icon: "fab fa-fw fa-github"
@@ -74,4 +74,22 @@ author:
         - label: ""
           icon: "fab fa-fw fa-linkedin-in"
           url: "https://www.linkedin.com/in/uri-berger-a478756b"
+
+footer:
+  links:
+    - label: "Mail"
+      icon: "far fa-envelope"
+      url: "mailto:uri.berger2@mail.huji.ac.il"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/uriberger88"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/uriberger"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin-in"
+      url: "https://www.linkedin.com/in/uri-berger-a478756b"
     
+    
+atom_feed:
+  hide: true
