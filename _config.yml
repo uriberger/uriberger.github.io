@@ -74,6 +74,9 @@ author:
         - label: ""
           icon: "fab fa-fw fa-linkedin-in"
           url: "https://www.linkedin.com/in/uri-berger-a478756b"
+        - label: ""
+          icon: "fas fa-book"
+          url: "https://scholar.google.com/citations?user=5p5Pl-sAAAAJ&hl=en&oi=sra"
 
 footer:
   links:
@@ -89,6 +92,9 @@ footer:
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin-in"
       url: "https://www.linkedin.com/in/uri-berger-a478756b"
+    - label: "Google Scholar"
+      icon: "fas fa-book"
+      url: "https://scholar.google.com/citations?user=5p5Pl-sAAAAJ&hl=en&oi=sra"
     
     
 atom_feed:
