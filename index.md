@@ -3,7 +3,7 @@ layout: single
 author_profile: true
 ---
 
-I’m a PhD candidate in a joint Phd program at the Hebrew University of Jerusalem, advised by
+I’m a PhD candidate in a joint Phd program at the Hebrew University of Jerusalem and the University of Melbourne, advised by
 <a href="https://www.cs.huji.ac.il/~oabend/" target="_blank">Prof. Omri Abend</a>,
 <a href="https://gabrielstanovsky.github.io/" target="_blank">Dr. Gabriel Stanovsky</a> and
 <a href="https://www.frermann.de/" target="_blank">Dr. Lea Frermann</a>.
