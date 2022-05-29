@@ -77,6 +77,9 @@ author:
         - label: ""
           icon: "fas fa-book"
           url: "https://scholar.google.com/citations?user=5p5Pl-sAAAAJ&hl=en&oi=sra"
+        - label: ""
+          icon: "fas fa-bookmark"
+          url: "https://www.semanticscholar.org/author/2052147700"
 
 footer:
   links:
@@ -95,6 +98,9 @@ footer:
     - label: "Google Scholar"
       icon: "fas fa-book"
       url: "https://scholar.google.com/citations?user=5p5Pl-sAAAAJ&hl=en&oi=sra"
+    - label: "Semantic Scholar"
+      icon: "fas fa-bookmark"
+      url: "https://www.semanticscholar.org/author/2052147700"
     
     
 atom_feed:
