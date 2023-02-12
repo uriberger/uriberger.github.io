@@ -1,0 +1,6 @@
+@inproceedings{berger2023visual_constraints,
+	author={Uri Berger and Lea Frermann and Gabriel Stanovsky and Omri Abend},
+	title={A Large-Scale Multilingual Study of Visual Constraints on Linguistic Selection of Descriptions},
+	booktitle={Findings of the 2023 Conference of the European Chapter of the Association for Computational Linguistics},
+	year={2023}
+}
