@@ -1,0 +1,7 @@
+@misc{berger2024incontext,
+      title={In-Context Learning on a Budget: A Case Study in Named Entity Recognition}, 
+      author={Uri Berger and Tal Baumel and Gabriel Stanovsky},
+      year={2024},
+      eprint={2406.13274},
+      archivePrefix={arXiv}
+}
