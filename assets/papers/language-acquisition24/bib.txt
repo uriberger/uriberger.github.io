@@ -1,0 +1,6 @@
+@article{mahon2024language,
+  title={A Language-agnostic Model of Child Language Acquisition},
+  author={Mahon, Louis and Abend, Omri and Berger, Uri and Demuth, Katherine and Johnson, Mark and Steedman, Mark},
+  journal={arXiv preprint arXiv:2408.12254},
+  year={2024}
+ }
