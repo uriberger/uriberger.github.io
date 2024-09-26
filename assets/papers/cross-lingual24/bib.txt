@@ -1,0 +1,7 @@
+@misc{berger2024cross-lingual,
+      title={Cross-Lingual and Cross-Cultural Variation in Image Descriptions},
+      author={Uri Berger and Edoardo M. Ponti},
+      year={2024},
+      eprint={2409.16646},
+      archivePrefix={arXiv}
+}
