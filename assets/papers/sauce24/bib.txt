@@ -1,0 +1,7 @@
+@misc{neuberger2024sauce,
+      title={SAUCE: Synchronous and Asynchronous User-Customizable Environment for Multi-Agent LLM Interaction},
+      author={Shlomo Neuberger and Niv Eckhaus and Uri Berger and Amir Taubenfeld and Gabriel Stanovsky and Ariel Goldstein},
+      year={2024},
+      eprint={2411.03397},
+      archivePrefix={arXiv}
+}
