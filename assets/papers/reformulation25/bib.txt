@@ -1,0 +1,7 @@
+@misc{berger2025reformulation,
+      title={Improving Image Captioning by Mimicking Human Reformulation Feedback at Inference-time},
+      author={Urii Berger and Omri Abend and Lea Frermann and Gabriel Stanovsky},
+      year={2025},
+      eprint={2501.04513},
+      archivePrefix={arXiv}
+}
