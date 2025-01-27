@@ -103,6 +103,10 @@ permalink: /publications/
       <a href="{{ post.bib-ext }}" target="_blank"><span class="label label-default">BIB</span></a>
       {% endunless %}
 
+      {% unless post.website == 'NONE' %}
+      <a href="{{ post.website }}" target="_blank"><span class="label label-danger">WEBSITE</span></a>
+      {% endunless %}
+
 
     </header>
     <!-- <a href="{{ site.prefix }}{{ post.url }}" class="button button-style1">Read More</a> -->
