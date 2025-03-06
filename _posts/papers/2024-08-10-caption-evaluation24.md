@@ -1,5 +1,5 @@
 ---
-title: 'Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy and Novel Ensemble Method'
+title: 'Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy, Trends and Metrics Analysis'
 authors: <b>Uri Berger</b>, Gabriel Stanovsky, Omri Abend, Lea Frermann
 venue: ' '
 base: caption-evaluation24
