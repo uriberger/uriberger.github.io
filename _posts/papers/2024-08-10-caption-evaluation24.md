@@ -1,7 +1,7 @@
 ---
 title: 'Surveying the Landscape of Image Captioning Evaluation: A Comprehensive Taxonomy, Trends and Metrics Analysis'
 authors: <b>Uri Berger</b>, Gabriel Stanovsky, Omri Abend, Lea Frermann
-venue: ' '
+venue: TACL
 base: caption-evaluation24
 pdf: NONE
 pdf-ext: https://arxiv.org/abs/2408.04909
@@ -14,6 +14,6 @@ data: NONE
 talk: NONE
 website: NONE
 layout: post
-date: 10-8-2024
+date: 1-7-2025
 categories: NONE
 ---
