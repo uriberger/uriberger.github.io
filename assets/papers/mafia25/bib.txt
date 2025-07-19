@@ -1,0 +1,6 @@
+@article{eckhaus2025time,
+	  title={Time to Talk: LLM Agents for Asynchronous Group Communication in Mafia Games},
+    	  author={Eckhaus, Niv and Berger, Uri and Stanovsky, Gabriel},
+      	  journal={arXiv preprint arXiv:2506.05309},
+          year={2025}
+}
