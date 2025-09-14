@@ -11,7 +11,7 @@ code: https://github.com/uriberger/cross_lingual_diff_in_descs
 slides: NONE
 poster: NONE
 data: NONE
-talk: video.mp4
+talk: https://drive.google.com/file/d/1WQzoiKqZNYcn6j0Jk-kHxktoFq6FNuW_/view
 website: https://crosslingualdiffindescs-cnk2orzzudxdicqwmssaqm.streamlit.app/
 layout: post
 date: 27-01-2025
