@@ -11,7 +11,7 @@ code: https://github.com/uriberger/caption_evaluation
 slides: NONE
 poster: NONE
 data: NONE
-talk: https://drive.google.com/file/d/15kcPslBg1CKq824iSelonAsml5CalzbC/view?usp=sharing
+talk: https://youtu.be/dZ_HMoE3Ck4
 website: NONE
 layout: post
 date: 1-7-2025
