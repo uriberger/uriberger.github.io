@@ -6,17 +6,15 @@ author_profile: true
 I’m a PhD candidate in a joint Phd program at the Hebrew University of Jerusalem and the University of Melbourne, advised by
 <a href="https://www.cs.huji.ac.il/~oabend/" target="_blank">Prof. Omri Abend</a>,
 <a href="https://gabrielstanovsky.github.io/" target="_blank">Dr. Gabriel Stanovsky</a> and
-<a href="https://www.frermann.de/" target="_blank">Dr. Lea Frermann</a>.
-I'm interested in cognitively plausible settings of language acquisition, especially those involving multimodality or interactivity.
-<br>
-<br>
-I did my MSc at the Hebrew University of Jerusalem working with <a href="https://www.cs.huji.ac.il/w~arir/" target="_blank">Prof. Ari Rappoport</a>
+<a href="https://www.frermann.de/" target="_blank">Dr. Lea Frermann</a>. Before that, I did my MSc at the Hebrew University of Jerusalem working with <a href="https://www.cs.huji.ac.il/w~arir/" target="_blank">Prof. Ari Rappoport</a>
 on Spiking Neural Networks. You can download my CV <a href="/assets/docs/cv.pdf">here</a>.
+<br>
+<br>
+I am interested in learning in non–text-only environments, particularly those involving multimodality or interactivity. Most of my PhD focused on multimodal learning, specifically on understanding why the outputs of Vision–Language Models often differ from those of humans, by examining both the underlying learning mechanisms and the factors that influence behavior in models and people. More recently, I have been exploring interactive learning settings, especially text-based games, investigating whether and how models can learn to play them and how such learning shapes their behavior. In particular, I am interested in deceptive games such as Mafia.
 <br>
 <br>
 I also love <a href="travel_photos" target="_blank">traveling and hiking</a>.
 
-<br>
 ## News
 - **January 6, 2026:** I'll be visiting London and Edinburgh at the end of January and will be giving a talk in Frank Keller's group on January 30. If you're in the UK around then, reach out and let's meet!
 - **December 18, 2025:** Attended ISCOL 2025 and presented our <a href="https://arxiv.org/abs/2409.16646" target="_blank">cross cultural paper</a> and <a href="https://arxiv.org/abs/2506.05309" target="_blank">mafia paper</a>.
