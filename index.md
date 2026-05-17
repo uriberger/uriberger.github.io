@@ -16,7 +16,9 @@ I am interested in learning in non–text-only environments, particularly those 
 I also love <a href="travel_photos" target="_blank">traveling and hiking</a>.
 
 ## News
-- **January 6, 2026:** I'll be visiting London and Edinburgh at the end of January and will be giving a talk in Frank Keller's group on January 30. If you're in the UK around then, reach out and let's meet!
+- **May 4, 2026:** I'll be giving a talk in Yonatan Belinkov's group in the Technion on May 20.
+- **January 30, 2026:** Gave a talk in the ILCC seminar in the University of Edinburgh.
+- **January 27, 2026:** Gave a talk in Anna Korhonen's group in Cambridge.
 - **December 18, 2025:** Attended ISCOL 2025 and presented our <a href="https://arxiv.org/abs/2409.16646" target="_blank">cross cultural paper</a> and <a href="https://arxiv.org/abs/2506.05309" target="_blank">mafia paper</a>.
 - **November 5, 2025:** Attended EMNLP 2025 and gave an oral presentation of our <a href="https://arxiv.org/abs/2408.04909" target="_blank">TACL paper</a> surveying image captioning evaluation methods (you can find the recording <a href="https://www.youtube.com/watch?v=dZ_HMoE3Ck4" target="_blank">here</a>).
 - **May 1, 2025:** Attended NAACL 2025 and gave an oral presentation of our <a href="https://arxiv.org/abs/2409.16646" target="_blank">cross cultural paper</a> (you can find the recording <a href="https://www.youtube.com/watch?v=ZDQbm1qEdbM&feature=youtu.be" target="_blank">here</a>).
