@@ -16,7 +16,9 @@ I am interested in learning in non–text-only environments, particularly those 
 I also love <a href="travel_photos" target="_blank">traveling and hiking</a>.
 
 ## News
-- **May 4, 2026:** I'll be giving a talk in Yonatan Belinkov's group in the Technion on May 20.
+- **June 22, 2026:** Submitted my PhD thesis.
+- **May 24, 2026:** Started a new position as a deep learning research intern at Nvidia.
+- **May 20, 2026:** Gave a talk in Yonatan Belinkov's group in the Technion.
 - **January 30, 2026:** Gave a talk in the ILCC seminar in the University of Edinburgh.
 - **January 27, 2026:** Gave a talk in Anna Korhonen's group in Cambridge.
 - **December 18, 2025:** Attended ISCOL 2025 and presented our <a href="https://arxiv.org/abs/2409.16646" target="_blank">cross cultural paper</a> and <a href="https://arxiv.org/abs/2506.05309" target="_blank">mafia paper</a>.
