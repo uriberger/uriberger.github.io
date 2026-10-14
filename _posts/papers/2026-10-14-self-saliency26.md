@@ -1,5 +1,5 @@
 ---
-title: 'Look Where You Say You'\re Looking: Self-Grounded Attention for Visual Reasoning'
+title: 'Look Where You Say Youre Looking: Self-Grounded Attention for Visual Reasoning'
 authors: <b>Uri Berger</b>, Gal Chechik, Gal Dalal
 venue: ' '
 base: self-saliency26
