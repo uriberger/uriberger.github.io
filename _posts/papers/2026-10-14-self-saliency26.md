@@ -1,7 +1,7 @@
 ---
-title: 'Look Where You Say You're Looking: Self-Grounded Attention for Visual Reasoning'
+title: 'Look Where You Say You'\re Looking: Self-Grounded Attention for Visual Reasoning'
 authors: <b>Uri Berger</b>, Gal Chechik, Gal Dalal
-venue: ''
+venue: ' '
 base: self-saliency26
 pdf: NONE
 pdf-ext: https://arxiv.org/abs/2610.05023
@@ -12,7 +12,7 @@ slides: NONE
 poster: poster.pdf
 data: NONE
 talk: NONE
-website: NONE
+website: https://research.nvidia.com/labs/par/projects/self-saliency/
 layout: post
 date: 10-4-2026
 categories: NONE
