@@ -9,7 +9,7 @@ bib: bib.txt
 bib-ext: NONE
 code: NONE
 slides: NONE
-poster: poster.pdf
+poster: NONE
 data: NONE
 talk: NONE
 website: https://research.nvidia.com/labs/par/projects/self-saliency/
