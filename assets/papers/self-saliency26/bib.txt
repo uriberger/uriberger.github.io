@@ -1,0 +1,6 @@
+@article{berger2026look,
+  title={Look Where You Say You're Looking: Self-Grounded Attention for Visual Reasoning},
+  author={Berger, Uri and Chechik, Gal and Dalal, Gal},
+  journal={arXiv preprint arXiv:2610.05023},
+  year={2026}
+}

@@ -3,19 +3,20 @@ layout: single
 author_profile: true
 ---
 
-I’m a PhD candidate in a joint Phd program at the Hebrew University of Jerusalem and the University of Melbourne, advised by
-<a href="https://www.cs.huji.ac.il/~oabend/" target="_blank">Prof. Omri Abend</a>,
-<a href="https://gabrielstanovsky.github.io/" target="_blank">Dr. Gabriel Stanovsky</a> and
-<a href="https://www.frermann.de/" target="_blank">Dr. Lea Frermann</a>. Before that, I did my MSc at the Hebrew University of Jerusalem working with <a href="https://www.cs.huji.ac.il/w~arir/" target="_blank">Prof. Ari Rappoport</a>
-on Spiking Neural Networks. You can download my CV <a href="/assets/docs/cv.pdf">here</a>.
+I’m a postdoctoral researcher at Cornell Tech and the Technion, working with <a href="https://www.cs.cornell.edu/~he93/" target="_blank">Hadar Averbuch-Elor</a> and <a href="https://belinkov.com/" target="_blank">Yonatan Belinkov</a>. I'm interested in complex reasoning in multimodal scenes, as well as learning through interactive language games (such as Mafia).
 <br>
 <br>
-I am interested in learning in non–text-only environments, particularly those involving multimodality or interactivity. Most of my PhD focused on multimodal learning, specifically on understanding why the outputs of Vision–Language Models often differ from those of humans, by examining both the underlying learning mechanisms and the factors that influence behavior in models and people. More recently, I have been exploring interactive learning settings, especially text-based games, investigating whether and how models can learn to play them and how such learning shapes their behavior. In particular, I am interested in deceptive games such as Mafia.
+Before that I was a PhD candidate in a joint Phd program at the Hebrew University of Jerusalem and the University of Melbourne, advised by
+<a href="https://www.cs.huji.ac.il/~oabend/" target="_blank">Omri Abend</a>,
+<a href="https://gabrielstanovsky.github.io/" target="_blank">Gabriel Stanovsky</a> and
+<a href="https://www.frermann.de/" target="_blank">Lea Frermann</a>. You can download my CV <a href="/assets/docs/cv.pdf">here</a>.
 <br>
 <br>
 I also love <a href="travel_photos" target="_blank">traveling and hiking</a>.
 
 ## News
+- **October 4, 2026:** Started a new position as a postdoctoral researcher at Cornell Tech and the Technion.
+- **August 6, 2026:** Gave a talk in Tel Aviv University.
 - **June 22, 2026:** Submitted my PhD thesis.
 - **May 24, 2026:** Started a new position as a deep learning research intern at Nvidia.
 - **May 20, 2026:** Gave a talk in Yonatan Belinkov's group in the Technion.
